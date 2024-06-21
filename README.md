@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Natthachai0434
+- 👀 I’m interested in web development, data analysis, and artificial intelligence.
+- 🌱 I’m currently learning advanced JavaScript, Python, and machine learning algorithms.
+- 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
+- 📫 How to reach me: natthachai.krit@geniusall.net
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving Rubik's cubes and can solve one in under a minute!
